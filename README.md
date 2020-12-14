@@ -2,7 +2,7 @@
 Text adventure games with series of steps and environments written in Python. 
 
 ## Illegal Casino 
-is like a online betting website: you have your balance, you play different games including
+is like an online betting website: you have your balance, you play different games including
 * Blackjack
 * Interval Select
 * Coin flip
